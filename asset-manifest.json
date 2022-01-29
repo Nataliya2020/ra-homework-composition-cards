@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ra-homework-composition-cards/static/css/main.f2106f91.css",
+    "main.js": "/ra-homework-composition-cards/static/js/main.d1547395.js",
+    "static/js/787.1777ed5e.chunk.js": "/ra-homework-composition-cards/static/js/787.1777ed5e.chunk.js",
+    "index.html": "/ra-homework-composition-cards/index.html",
+    "main.f2106f91.css.map": "/ra-homework-composition-cards/static/css/main.f2106f91.css.map",
+    "main.d1547395.js.map": "/ra-homework-composition-cards/static/js/main.d1547395.js.map",
+    "787.1777ed5e.chunk.js.map": "/ra-homework-composition-cards/static/js/787.1777ed5e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2106f91.css",
+    "static/js/main.d1547395.js"
+  ]
+}
